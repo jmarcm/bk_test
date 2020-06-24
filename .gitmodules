@@ -1,3 +1,6 @@
 [submodule "classes/test-module.php"]
 	path = classes/test-module.php
 	url = https://github.com/jmarcm/test-module.git
+[submodule "klasses"]
+	path = klasses
+	url = https://github.com/jmarcm/klass-forms.git
