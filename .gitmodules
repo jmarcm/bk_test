@@ -1,0 +1,3 @@
+[submodule "classes/test-module.php"]
+	path = classes/test-module.php
+	url = https://github.com/jmarcm/test-module.git
